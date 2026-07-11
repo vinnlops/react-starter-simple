@@ -1,4 +1,4 @@
-# React Starter — Lite
+# React Starter — Simple
 
 Template inicial React + TypeScript + Vite, estruturado para escalar. Essa versão (**simple**) **não possui camada de comunicação com backend** — ideal para landing pages, portfólios, protótipos e projetos que não consomem API remota.
 
