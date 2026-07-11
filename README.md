@@ -4,6 +4,12 @@ Template inicial React + TypeScript + Vite, estruturado para escalar. Essa vers�
 
 Para um projeto que precisa falar com uma API (Axios + React Query), use a versão **full**.
 
+## Documentação
+
+Além deste README, o projeto possui uma documentação completa com guias, exemplos e referências para as principais funcionalidades e padrões adotados.
+
+**Acesse a documentação:** https://react-starter-docs.vercel.app/docs/introducao
+
 ## Stack
 
 - **React 19** + **TypeScript**
